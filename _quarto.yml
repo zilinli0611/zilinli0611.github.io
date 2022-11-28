@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: doc
+  resources:
+    - lizilin_cv.pdf
+website:
+  title: "Zilin Li"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "HOME"
+        href: index.qmd
+      - text: "PAPERS"
+        href: papers.qmd
+  page-footer: 
+    left: 
+      - text: "&copy; Copyright 2022, Zilin Li"
+    border: true
+  reader-mode: true
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+

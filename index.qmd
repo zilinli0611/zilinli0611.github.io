@@ -1,0 +1,36 @@
+---
+title: "Zilin Li"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - text: E-mail
+      href: mailto:smulizilin@163.com
+    - text: CV
+      href: lizilin_cv.pdf
+---
+::: {.column-page}
+
+## Profile
+
+Currently I am a graduate student of State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, working at the Center for Beijing Aging Brain Rejuvenation Initiative (BABRI) (PI: Prof. Zhanjun Zhang). My research interest is the neural mechanism of cognitive aging using MRI.
+
+**ResearchGate**: [https://www.researchgate.net/profile/Zilin-Li-10](https://www.researchgate.net/profile/Zilin-Li-10)
+
+## Education
+
+**Beijing Normal University (BNU)** | Beijing, China | Sep. 2021 - Jun. 2024
+
+M.S., Cognitive Neuroscience
+
+**Southern Medical University (SMU)** | Guangdong, China | Sep. 2017 - Jun. 2021
+
+B.S., Psychology
+
+**Chung Shan Medical University (CSMU)** | Taichung, Taiwan | Sep. 2018 - Jun. 2019
+
+Exchange student in Psychology
+
+:::

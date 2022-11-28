@@ -1,0 +1,19 @@
+---
+title: "PAPERS"
+page-layout: full
+title-block-banner: true
+---
+
+## Peer-Reviewed
+
+- Zilin Li, Gaojie Huang, Zetian Li, Shubin Li, Yile Wang, Jiubo Zhao, Jinfeng Wen, Thomas Hummel, Laiquan Zou (2020). Chemosensory anhedonia in patients with schizophrenia and individuals with schizotypy: a questionnaire study. Frontiers in Psychiatry,11(481). DOI: 10.3389/fpsyt.2020.00481.
+
+- Zilin Li, Thomas Hummel, Laiquan Zou. Sniffing of body odors and individual significance of olfaction are associated with sexual desire: A cross-cultural study in China, India and the USA. Archives of sexual behavior, DOI: 10.1007/s10508-022-02398-1.
+
+- Zilin Li, Yue Qi, Mehmet K. Mahmut, Laiquan Zou. Do you often sniff yourself or others? Development of the Body Odor Sniffing Questionnaire and a cross-cultural survey in China and the USA. Physiology & Behavior, 255(113934), DOI: 10.1016/j.physbeh.2022.113934.
+
+- Yanyang Huang#, Zilin Li#, Laiquan Zou. Association between schizotypal traits and food neophobia: mediating effect of chemosensory hedonic capacity. Journal of Sensory Studies, e12741. DOI: 10.1111/joss.12741.
+
+- Lan Liu, Zilin Li, Zhihong Lyu, Laiquan Zou. A review of psychophysical olfactory tests in children. Chin J Otorhinolaryngol Head Neck Surg, June2020, Vol.55, No.6 [in Chinese].
+
+- Zilin Li, Wenxiao Wang, Feng Sang, Zhanjun Zhang, Xin Li. White matter changes underlie hypertension-related cognitive decline in older adults [review]. Journal of Hypertension, under review.

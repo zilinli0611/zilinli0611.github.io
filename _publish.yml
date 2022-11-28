@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 9bfb2501-ff88-4cdc-bec3-9e75ee6e7b1f
+      url: 'https://lizilin.netlify.app'
