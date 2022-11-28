@@ -11,7 +11,7 @@ about:
       href: https://twitter.com/zilinli611
     - icon: github
       text: Github
-      href: https://github.com/lizilin0611
+      href: https://github.com/zilinli0611
     - text: E-mail
       href: mailto:smulizilin@163.com
     - text: CV
