@@ -1,6 +1,6 @@
 # lizilin.github.io
 
-This is my personal website (https://lizilin.netlify.app).
+This is my personal website (https://lizilin.netlify.app or https://zilinli0611.github.io/).
 
 # Usage
 
