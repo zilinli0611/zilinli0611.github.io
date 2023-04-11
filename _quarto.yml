@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - lizilin_cv.pdf
+    - ZilinLiRESUME.pdf
 website:
   title: "Zilin Li"
   navbar:
@@ -15,7 +15,7 @@ website:
         href: papers.qmd
   page-footer: 
     left: 
-      - text: "&copy; Copyright 2022, Zilin Li"
+      - text: "&copy; Copyright 2022 - 2023, Zilin Li"
     border: true
   reader-mode: true
 
