@@ -1,5 +1,6 @@
 # lizilin.github.io
-The personal website of myself.
+
+This is my personal website (https://lizilin.netlify.app).
 
 # Usage
 
