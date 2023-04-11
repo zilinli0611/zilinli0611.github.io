@@ -15,7 +15,7 @@ about:
     - text: E-mail
       href: mailto:smulizilin@163.com
     - text: CV
-      href: lizilin_cv.pdf
+      href: ZilinLiRESUME.pdf
 ---
 ::: {.column-page}
 
